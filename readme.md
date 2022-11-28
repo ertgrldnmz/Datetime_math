@@ -1,5 +1,7 @@
 ## Datetime ve Math Sınıfları 
 ### DateTime
+
+#### Used Examples
 ```Csharp
         Console.WriteLine(DateTime.Now);
         Console.WriteLine(DateTime.Now.Date);
